@@ -1,11 +1,11 @@
 {
-    "applicationServices": {
+    "rhosakUi": {
         "entry": [
-            "/beta/apps/application-services/applicationServices.1670921573977.16f1bdd01036c9049d51.js"
+            "/beta/apps/rhosak-ui/rhosakUi.1670935874290.32f7eb8f74bf7d0c8895.js"
         ],
         "modules": [
-            "/beta/apps/application-services/js/602.1670921574041.16f1bdd01036c9049d51.js",
-            "/beta/apps/application-services/css/602.b6764a93546c2bccf904.css"
+            "/beta/apps/rhosak-ui/js/602.1670935874363.32f7eb8f74bf7d0c8895.js",
+            "/beta/apps/rhosak-ui/css/602.082511859f927b8cc1a6.css"
         ]
     }
 }
