@@ -1,8 +1,11 @@
 {
     "rhosakUi": {
         "entry": [
-            "/apps/rhosak-ui/rhosakUi.js",
-            "/apps/rhosak-ui/js/runtime.js"
+            "/beta/apps/rhosak-ui/rhosakUi.1671028086239.e31c49e13551adf5d058.js"
+        ],
+        "modules": [
+            "/beta/apps/rhosak-ui/js/602.1671028086294.e31c49e13551adf5d058.js",
+            "/beta/apps/rhosak-ui/css/602.a97aafbcf98002192739.css"
         ]
     }
 }
