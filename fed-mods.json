@@ -1,10 +1,10 @@
 {
     "rhosakUi": {
         "entry": [
-            "/apps/rhosak-ui/rhosakUi.adf02ae0f3d62dc5c6b7.js"
+            "/apps/rhosak-ui/rhosakUi.558ee32ca82864c4dd1d.js"
         ],
         "modules": [
-            "/apps/rhosak-ui/js/602.adf02ae0f3d62dc5c6b7.js",
+            "/apps/rhosak-ui/js/602.558ee32ca82864c4dd1d.js",
             "/apps/rhosak-ui/css/602.a97aafbcf98002192739.css"
         ]
     }
