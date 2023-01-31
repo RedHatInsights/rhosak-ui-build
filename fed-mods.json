@@ -1,11 +1,11 @@
 {
     "rhosakUi": {
         "entry": [
-            "/beta/apps/rhosak-ui/rhosakUi.1673024930218.984d06225916609dfbc4.js"
+            "/apps/rhosak-ui/rhosakUi.adf02ae0f3d62dc5c6b7.js"
         ],
         "modules": [
-            "/beta/apps/rhosak-ui/js/602.1673024930280.984d06225916609dfbc4.js",
-            "/beta/apps/rhosak-ui/css/602.a97aafbcf98002192739.css"
+            "/apps/rhosak-ui/js/602.adf02ae0f3d62dc5c6b7.js",
+            "/apps/rhosak-ui/css/602.a97aafbcf98002192739.css"
         ]
     }
 }
