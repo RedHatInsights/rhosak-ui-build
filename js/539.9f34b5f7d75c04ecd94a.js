@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconsoledot_rhosak=self.webpackChunkconsoledot_rhosak||[]).push([[539],{27539:s=>{s.exports=JSON.parse('{"fields":{"id":"Cluster ID","status":"Status"}}')}}]);
