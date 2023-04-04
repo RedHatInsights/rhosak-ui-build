@@ -1,11 +1,11 @@
 {
     "rhosak": {
         "entry": [
-            "/beta/apps/rhosak/rhosak.2f4f31b03e62d3017a35.js"
+            "/apps/rhosak/rhosak.9437911468be4906edad.js"
         ],
         "modules": [
-            "/beta/apps/rhosak/js/957.2f4f31b03e62d3017a35.js",
-            "/beta/apps/rhosak/css/957.dcf66e212a0ea14a52cc.css"
+            "/apps/rhosak/js/957.9437911468be4906edad.js",
+            "/apps/rhosak/css/957.dcf66e212a0ea14a52cc.css"
         ]
     }
 }
