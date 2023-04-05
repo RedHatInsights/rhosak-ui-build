@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconsoledot_rhosak=self.webpackChunkconsoledot_rhosak||[]).push([[539],{27539:e=>{e.exports=JSON.parse('{"fields":{"az":"Availability zones","cloudProvider":"Cloud Provider","cloudRegion":"Region","id":"Cluster ID","name":"Cluster name","requiresPrivateNetwork":"Requires private network","status":"Status"}}')}}]);
